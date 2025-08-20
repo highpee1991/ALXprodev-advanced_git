@@ -1,1 +1,5 @@
-This is the signup page project
+data requirements:
+email
+firstName
+lastName
+profilePic
