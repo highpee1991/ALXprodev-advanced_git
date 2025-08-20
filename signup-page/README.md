@@ -1,2 +1,1 @@
-feature coming soon
-data requirements: email, firstName, lastName, profilePic
+This is the signup page project
